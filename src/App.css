@@ -1,0 +1,14 @@
+.board {
+  display: flex;
+  gap: 12px;
+  padding: 20px;
+}
+
+.column {
+  flex: 1;
+  background: white;
+  border-radius: 10px;
+  border: 1px solid #e8e6e1;
+  padding: 16px;
+  min-height: 400px;
+}
